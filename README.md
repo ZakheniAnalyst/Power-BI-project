@@ -14,7 +14,7 @@ Identify top-performing customers and sales fluctuations.
 Compare sales over time to evaluate progress and set future targets.
 
 ## Key Insights
- [image preview](pbi dashboard 1.png)
+ ![image preview](pbi dashboard 1.png)
 ### Dashboard 1 – Regional & Product Analysis
 
 -Average Unit Price: 560
