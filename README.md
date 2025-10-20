@@ -45,9 +45,7 @@ Compare sales over time to evaluate progress and set future targets.
 
 - Power BI Desktop
 - Data Transformation: Power Query
-
-Data Modeling: DAX Measures & Relationships
-
-Visualization: Cards, Line Charts, Bar Charts, Donut Chart, and Tables
+- Data Modeling: DAX Measures & Relationships
+- Visualization: Cards, Line Charts, Bar Charts, Donut Chart, and Tables
 
 
