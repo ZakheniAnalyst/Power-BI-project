@@ -9,24 +9,13 @@ The dashboard is designed to help decision-makers quickly identify sales growth 
 ## Objectives
 
 Monitor daily and weekly sales performance.
-
 Track regional and product category trends.
-
 Identify top-performing customers and sales fluctuations.
-
 Compare sales over time to evaluate progress and set future targets.
 
 ## Key Insights
-# Dashboard 1 – Sales Performance Overview
-
-- Total Sales (7 Days Ago): 44K
-- Total Sales (2 Weeks Ago): 6K
-- Units Sold (7 Days Ago): 87
-- Day-on-Day Sales Comparison: Highlights daily growth or decline percentages.
-- Top Customers: Alice Johnson and Frank White contributed the highest sales.
-- Breakdown of Sales: Displays total, weekly, and bi-weekly sales progression.
-
-# Dashboard 2 – Regional & Product Analysis
+ image preview
+### Dashboard 1 – Regional & Product Analysis
 
 -Average Unit Price: 560
 -Total Sales: 84K
@@ -35,6 +24,15 @@ Compare sales over time to evaluate progress and set future targets.
 -Category Breakdown: Electronics dominate with over 90% of total sales.
 -Trend Analysis: Shows daily total sales by region and product type.
 
+### Dashboard 2 – Sales Performance Overview
+
+- Total Sales (7 Days Ago): 44K
+- Total Sales (2 Weeks Ago): 6K
+- Units Sold (7 Days Ago): 87
+- Day-on-Day Sales Comparison: Highlights daily growth or decline percentages.
+- Top Customers: Alice Johnson and Frank White contributed the highest sales.
+- Breakdown of Sales: Displays total, weekly, and bi-weekly sales progression.
+  
 ## Filters and Slicers
 
 - Regions: East, North, South, West
