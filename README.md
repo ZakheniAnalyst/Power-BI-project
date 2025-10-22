@@ -24,7 +24,9 @@ Compare sales over time to evaluate progress and set future targets.
 - Category Breakdown: Electronics dominate with over 90% of total sales.
 - Trend Analysis: Shows daily total sales by region and product type.
 
-### Dashboard 2 – Sales Performance Overview
+### Dashboard 2 
+![Image Alt]()
+### Sales Performance Overview
 
 - Total Sales (7 Days Ago): 44K
 - Total Sales (2 Weeks Ago): 6K
