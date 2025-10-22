@@ -17,12 +17,12 @@ Compare sales over time to evaluate progress and set future targets.
 ![Image Alt](https://github.com/ZakheniAnalyst/Power-BI-project/blob/main/pbi%20dashboard%201.png?raw=true)
 ### Regional & Product Analysis (Key Insights)
 
--Average Unit Price: 560
--Total Sales: 84K
--Total Units Sold: 194
--Top Regions: South and North regions lead in total sales.
--Category Breakdown: Electronics dominate with over 90% of total sales.
--Trend Analysis: Shows daily total sales by region and product type.
+- Average Unit Price: 560
+- Total Sales: 84K
+- Total Units Sold: 194
+- Top Regions: South and North regions lead in total sales.
+- Category Breakdown: Electronics dominate with over 90% of total sales.
+- Trend Analysis: Shows daily total sales by region and product type.
 
 ### Dashboard 2 – Sales Performance Overview
 
