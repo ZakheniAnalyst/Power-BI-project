@@ -25,7 +25,7 @@ Compare sales over time to evaluate progress and set future targets.
 - Trend Analysis: Shows daily total sales by region and product type.
 
 ### Dashboard 2 
-![Image Alt]()
+![Image Alt](https://github.com/ZakheniAnalyst/Power-BI-project/blob/main/pbi%20dashboard%202.png?raw=true)
 ### Sales Performance Overview
 
 - Total Sales (7 Days Ago): 44K
