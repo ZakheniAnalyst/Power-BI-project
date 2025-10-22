@@ -13,9 +13,9 @@ Track regional and product category trends.
 Identify top-performing customers and sales fluctuations.
 Compare sales over time to evaluate progress and set future targets.
 
-## Key Insights
- ![image preview](pbi dashboard 1.png)
-### Dashboard 1 – Regional & Product Analysis
+### Dashboard 1 
+![Image Alt](https://github.com/ZakheniAnalyst/Power-BI-project/blob/main/pbi%20dashboard%201.png?raw=true)
+### Regional & Product Analysis (Key Insights)
 
 -Average Unit Price: 560
 -Total Sales: 84K
