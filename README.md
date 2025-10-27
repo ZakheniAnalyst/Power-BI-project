@@ -34,6 +34,22 @@ Compare sales over time to evaluate progress and set future targets.
 - Day-on-Day Sales Comparison: Highlights daily growth or decline percentages.
 - Top Customers: Alice Johnson and Frank White contributed the highest sales.
 - Breakdown of Sales: Displays total, weekly, and bi-weekly sales progression.
+
+### Key Takeaways
+
+- Overall Growth: Sales and units sold have increased compared to previous weeks, indicating strong momentum.
+- Customer Concentration Risk: Heavy reliance on a few high-value customers — diversification recommended.
+- Regional Strategy: South and North regions drive majority of revenue; East and West underperform.
+- Product Focus: Laptops and Smartphones are core revenue drivers.
+- Performance Volatility: Noticeable day-on-day fluctuations highlight the need for demand forecasting or promotional planning.
+
+### Recommendations
+
+- Target Underperforming Regions: Launch regional campaigns in East & West.
+- Customer Retention: Develop loyalty programs for top customers.
+- Demand Planning: Use time-series forecasting to stabilize sales dips.
+- Product Diversification: Explore opportunities to grow accessory sales.
+- Data Automation: Schedule Power BI refreshes for real-time sales monitoring.
   
 ## Filters and Slicers
 
